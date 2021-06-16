@@ -1,0 +1,14 @@
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Service\bin\Debug\netcoreapp3.1\Service.dll
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Service\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Service\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Service\bin\Debug\netcoreapp3.1\Infra.Data.dll
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Service\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Service\bin\Debug\netcoreapp3.1\Infra.Data.pdb
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Service\obj\Debug\netcoreapp3.1\Service.dll
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Service\obj\Debug\netcoreapp3.1\Service.pdb

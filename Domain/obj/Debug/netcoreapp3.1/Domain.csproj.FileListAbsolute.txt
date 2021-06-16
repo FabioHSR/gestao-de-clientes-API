@@ -1,0 +1,9 @@
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

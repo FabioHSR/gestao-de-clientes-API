@@ -1,0 +1,278 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Dev\\Facil Assist\\GestaoDeClientesWebAPI\\GestaoDeClientesWebAPI\\GestaoDeClientesWebAPI.csproj": {}
+  },
+  "projects": {
+    "D:\\Dev\\Facil Assist\\GestaoDeClientesWebAPI\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dev\\Facil Assist\\GestaoDeClientesWebAPI\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "D:\\Dev\\Facil Assist\\GestaoDeClientesWebAPI\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\T-Gamer\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\Facil Assist\\GestaoDeClientesWebAPI\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\T-Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Dev\\Facil Assist\\GestaoDeClientesWebAPI\\GestaoDeClientesWebAPI\\GestaoDeClientesWebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dev\\Facil Assist\\GestaoDeClientesWebAPI\\GestaoDeClientesWebAPI\\GestaoDeClientesWebAPI.csproj",
+        "projectName": "GestaoDeClientesWebAPI",
+        "projectPath": "D:\\Dev\\Facil Assist\\GestaoDeClientesWebAPI\\GestaoDeClientesWebAPI\\GestaoDeClientesWebAPI.csproj",
+        "packagesPath": "C:\\Users\\T-Gamer\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\Facil Assist\\GestaoDeClientesWebAPI\\GestaoDeClientesWebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\T-Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Dev\\Facil Assist\\GestaoDeClientesWebAPI\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Dev\\Facil Assist\\GestaoDeClientesWebAPI\\Domain\\Domain.csproj"
+              },
+              "D:\\Dev\\Facil Assist\\GestaoDeClientesWebAPI\\Infra.Data\\Infra.Data.csproj": {
+                "projectPath": "D:\\Dev\\Facil Assist\\GestaoDeClientesWebAPI\\Infra.Data\\Infra.Data.csproj"
+              },
+              "D:\\Dev\\Facil Assist\\GestaoDeClientesWebAPI\\Service\\Service.csproj": {
+                "projectPath": "D:\\Dev\\Facil Assist\\GestaoDeClientesWebAPI\\Service\\Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Dev\\Facil Assist\\GestaoDeClientesWebAPI\\Infra.Data\\Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dev\\Facil Assist\\GestaoDeClientesWebAPI\\Infra.Data\\Infra.Data.csproj",
+        "projectName": "Infra.Data",
+        "projectPath": "D:\\Dev\\Facil Assist\\GestaoDeClientesWebAPI\\Infra.Data\\Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\T-Gamer\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\Facil Assist\\GestaoDeClientesWebAPI\\Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\T-Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Dev\\Facil Assist\\GestaoDeClientesWebAPI\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Dev\\Facil Assist\\GestaoDeClientesWebAPI\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Dev\\Facil Assist\\GestaoDeClientesWebAPI\\Service\\Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dev\\Facil Assist\\GestaoDeClientesWebAPI\\Service\\Service.csproj",
+        "projectName": "Service",
+        "projectPath": "D:\\Dev\\Facil Assist\\GestaoDeClientesWebAPI\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\T-Gamer\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\Facil Assist\\GestaoDeClientesWebAPI\\Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\T-Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Dev\\Facil Assist\\GestaoDeClientesWebAPI\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Dev\\Facil Assist\\GestaoDeClientesWebAPI\\Domain\\Domain.csproj"
+              },
+              "D:\\Dev\\Facil Assist\\GestaoDeClientesWebAPI\\Infra.Data\\Infra.Data.csproj": {
+                "projectPath": "D:\\Dev\\Facil Assist\\GestaoDeClientesWebAPI\\Infra.Data\\Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.2.3, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

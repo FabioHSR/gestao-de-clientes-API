@@ -1,0 +1,12 @@
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.deps.json
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.dll
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.pdb
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Infra.Data\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Infra.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.AssemblyReference.cache
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.AssemblyInfoInputs.cache
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.AssemblyInfo.cs
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.CoreCompileInputs.cache
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.CopyComplete
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.dll
+D:\Dev\Facil Assist\GestaoDeClientesWebAPI\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.pdb
